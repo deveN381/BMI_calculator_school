@@ -1,0 +1,7 @@
+C:\Users\Phillip\source\repos\BMI_calc\bin\Debug\BMI_calc.exe.config
+C:\Users\Phillip\source\repos\BMI_calc\bin\Debug\BMI_calc.exe
+C:\Users\Phillip\source\repos\BMI_calc\bin\Debug\BMI_calc.pdb
+C:\Users\Phillip\source\repos\BMI_calc\obj\Debug\BMI_calc.csproj.AssemblyReference.cache
+C:\Users\Phillip\source\repos\BMI_calc\obj\Debug\BMI_calc.csproj.CoreCompileInputs.cache
+C:\Users\Phillip\source\repos\BMI_calc\obj\Debug\BMI_calc.exe
+C:\Users\Phillip\source\repos\BMI_calc\obj\Debug\BMI_calc.pdb
